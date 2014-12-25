@@ -21,7 +21,7 @@
     "svg"
   ],
   "dependencies": {
-    "svgo": "~0.5.0",
+    "svgo": "git+ssh://git@github.com:svg/svgo.git#259ae7e7d9dfd59161669495ec1ac43f6e677544",
     "bufferstreams": "0.0.2",
     "gulp-util": "~2.2.20"
   },
